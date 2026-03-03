@@ -52,7 +52,7 @@ Tugas ketiga anda pada prinsipnya sama dengan **Task 01** dan **Task 02**, perbe
 
 ```
 
-**Output:**
+**Output:** 
 ```bash
 12S2203|12S20999|2021/2022|even|None
 12S2203|12S20111|2020/2021|even|None
